@@ -1,2 +1,0 @@
-# nx-angular
-nx-angular
